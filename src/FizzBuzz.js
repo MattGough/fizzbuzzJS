@@ -1,0 +1,14 @@
+function FizzBuzz() {
+
+return "Fizz";
+
+
+
+
+
+
+
+
+
+
+}
